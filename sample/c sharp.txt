@@ -1,0 +1,4 @@
+entity framework 
+
+code first
+ database first
